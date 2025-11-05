@@ -12,3 +12,28 @@ p{
 
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+header,footer{
+    border-style:solid;
+    border-color: blue;
+
+}
+
+
+nav{
+    border-style:solid;
+    border-color:blueviolet
+
+}
+
+
+main{
+    border-style:solid;
+    border-color:aquamarine
+}
+
+
+section{
+    border-style:solid;
+    border-color:blanchedalmond
+}
